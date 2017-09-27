@@ -31,11 +31,7 @@ p {
 	font-size: 18px;
 }
 
-.header {
-	background-image: url("../images/flatiron.png");
-
-}
-
+.header,
 #designed-in {
 	background-image: url("../images/flatiron.png");
 }
