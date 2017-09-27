@@ -5,10 +5,12 @@
 
 h1 {
 	font-size: 70px;
-	color: white;
 }
 
-a {
+a, 
+h1,
+#footer,
+#designed-in {
 	color: white;
 }
 
@@ -35,14 +37,12 @@ p {
 }
 
 #designed-in {
-	color: white;
 	background-image: url("../images/flatiron.png");
 }
 
 #footer {
 	text-align: left;
 	background-color: dimgray;
-	color: white;
 }
 
 #copyright {
