@@ -9,7 +9,6 @@ h1 {
 }
 
 a {
-	font-size: 18px;
 	color: white;
 }
 
@@ -26,8 +25,26 @@ p {
 	font-size: 14px;
 }
 
+.nav {
+	font-size: 18px;
+}
+
 .header {
 	background-image: url("../images/flatiron.png");
 
 }
 
+#designed-in {
+	color: white;
+	background-image: url("../images/flatiron.png");
+}
+
+#footer {
+	text-align: left;
+	background-color: dimgray;
+	color: white;
+}
+
+#copyright {
+	font-size: 11px;
+}
